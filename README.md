@@ -1,6 +1,8 @@
-# Console Controller Classifier API
+# [Console Controller Classifier API](https://huggingface.co/Medo-Id)
 
 A simple FastAPI server that uses a FastAI image classification model to identify console controllers from base64-encoded image uploads.
+
+> The model and server are hosted on Hugging Face. Test it directly: `https://medo-id-testing.hf.space/classify`
 
 ## Features
 
