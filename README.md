@@ -28,6 +28,13 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
+Or
+
+```bash
+pip install "fastapi[standard]"
+...
+fastapi dev
+```
 
 ## API
 
